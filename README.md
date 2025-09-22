@@ -201,7 +201,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Waniya Masood**
-- Project developed as part of Technologia educational program
 - Demonstrates advanced C++ programming concepts
 - Showcases modern software development practices
 
@@ -210,8 +209,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **SFML Community** for the excellent graphics library
 - **Conan Team** for dependency management
 - **CMake Community** for the build system
-- **Technologia** for educational support
-
 ---
 
 **Happy Task Managing! 🎉**
